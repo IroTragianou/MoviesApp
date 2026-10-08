@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="backdrop_image">Backdrop image</string>
+    <string name="back_button">Back</string>
+    <string name="share_button">Share</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="action_drama">Action, Drama</string>
+    <string name="favorite">Favorite</string>
+    <string name="release_date">Release Date</string>
+    <string name="runtime">Runtime</string>
+    <string name="overview_label">Description</string>
+    <string name="overview_textView">Description</string>
+    <string name="cast_label">Cast</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="similar_movies">Similar Movies</string>
+
+</resources>
